@@ -9,4 +9,4 @@ Se han detenido las clases pero el temario debe avanzar, de manera que iré subi
 ## [Anuncios](https://javieriesch.github.io/)
 Anuncios oficiales, acerca de las clases, su ausencia y su regreso, etc.
 ## Contacto: 
-[jsantacruz@iescabodelahuerta.com](mailto:jsantacruz@iescabodelahuerta.com)
+[javier_santacruz@iescabodelahuerta.com](mailto:javier_santacruz@iescabodelahuerta.com)
